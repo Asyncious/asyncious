@@ -24,30 +24,14 @@ const life = async () => {
 - **Languages**: JavaScript/TypeScript, Python, Rust, Go
 - **Runtime**: Node.js, Deno
 - **Frameworks**: 
-  - Express.js (with async/await patterns)
-  - FastAPI (async Python)
-  - Tokio (Rust async runtime)
+  - Express.js
+  - FastAPI
+  - Tokio
 - **Message Brokers**: RabbitMQ, Apache Kafka
 - **Databases**: 
-  - MongoDB (with async drivers)
-  - PostgreSQL (with async pools)
-  - Redis (pub/sub patterns)
-
-## 🌟 Featured Projects
-
-### EventFlow
-*An event-driven architecture framework*
-- Built with Node.js and TypeScript
-- Handles 10k+ events/second
-- Implements backpressure mechanisms
-- Uses Redis streams for persistence
-
-### AsyncDB
-*Non-blocking database connection pool*
-- Zero-cost abstractions
-- Automatic connection management
-- Transaction retry mechanisms
-- Support for multiple database engines
+  - MongoDB
+  - PostgreSQL
+  - Redis
 
 ## 📈 GitHub Stats
 
@@ -60,17 +44,6 @@ const life = async () => {
 - Contributing to open-source async libraries
 - Writing about concurrent programming patterns
 
-## 📫 Connect With Me
-
-```javascript
-const connect = async () => {
-  return await Promise.any([
-    twitter('@asyncious'),
-    email('dev@asyncious.dev'),
-    linkedin('asyncious')
-  ]);
-};
-```
 
 ---
 *"The best thing about the future is that it comes one event loop at a time."*
