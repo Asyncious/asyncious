@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Asyncious
+# Hi, I'm Asyncious
 
 > Making code wait patiently while ideas catch up.
 
-## 🚀 About Me
+## About Me
 
 I'm a software engineer specializing in asynchronous programming patterns and distributed systems. My passion lies in building scalable, non-blocking applications that can handle thousands of concurrent operations efficiently.
 
@@ -19,7 +19,7 @@ const life = async () => {
 };
 ```
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Languages**: JavaScript/TypeScript, Python, Rust, Go
 - **Runtime**: Node.js, Deno
@@ -32,14 +32,6 @@ const life = async () => {
   - MongoDB
   - PostgreSQL
   - Redis
-
-## 🎯 Current Focus
-
-- Exploring Rust async/await patterns
-- Building distributed tracing solutions
-- Contributing to open-source async libraries
-- Writing about concurrent programming patterns
-
 
 ---
 *"The best thing about the future is that it comes one event loop at a time."*
