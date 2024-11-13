@@ -33,10 +33,6 @@ const life = async () => {
   - PostgreSQL
   - Redis
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asyncious&show_icons=true&theme=dracula)
-
 ## 🎯 Current Focus
 
 - Exploring Rust async/await patterns
