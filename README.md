@@ -2,9 +2,6 @@
 
 > Making code wait patiently while ideas catch up.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/asyncious?style=social)](https://twitter.com/asyncious)
-[![GitHub followers](https://img.shields.io/github/followers/asyncious?style=social)](https://github.com/asyncious)
-
 ## 🚀 About Me
 
 I'm a software engineer specializing in asynchronous programming patterns and distributed systems. My passion lies in building scalable, non-blocking applications that can handle thousands of concurrent operations efficiently.
